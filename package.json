@@ -1,0 +1,31 @@
+{
+  "name": "esds-geo_rest",
+  "version": "1.0.0",
+  "description": "geofencing rest api using node and postgis ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpaul0220/esds-geo_rest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "postgres",
+    "sql",
+    "postgis",
+    "rest",
+    "express"
+  ],
+  "author": "john paul rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpaul0220/esds-geo_rest/issues"
+  },
+  "homepage": "https://github.com/johnpaul0220/esds-geo_rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
